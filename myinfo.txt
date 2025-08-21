@@ -1,3 +1,5 @@
 Thomas  Perez
 thomas.perez@ndus.edu
 username:thomas.perez
+semester: Fall 2025
+repository: NDUS-practice-1 in https://github.com/TomEphraim/Perez/NDUS-practice-1
